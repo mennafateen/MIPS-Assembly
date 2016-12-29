@@ -1,6 +1,5 @@
 .data
 	array: .space 40 #array of entered numbers
-	array2: .space 40 #copy of array
 	mssg: .asciiz "Enter a number: "
 	mssg2: .asciiz "Enter the number to search for: "
 	value: .word 0
